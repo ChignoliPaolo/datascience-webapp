@@ -31,7 +31,7 @@ Contributors names and contact info
 
 Paolo Chignoli
 
-paolo.chignoli@techedgegroup.com
+paolo.chignoli.97@gmail.com
 
 ## Version History
 
