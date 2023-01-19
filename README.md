@@ -1,6 +1,6 @@
-# Piaggio Ticket Search
+# Data science webapp
 
-Text search webapp built with Streamlit framework.
+Data science web application
 
 ## Getting Started
 
@@ -9,10 +9,7 @@ Text search webapp built with Streamlit framework.
 **Prerequisites**
 
 * Streamlit
-* NLTK
-* GoogleTranslate API
-* PyEnchant
-* Lingua
+
 
 ### Installing
 
